@@ -12,3 +12,4 @@ src/shared/fonts_utils.js
 test/tmp/
 test/pdfs/
 *~/
+README.md
